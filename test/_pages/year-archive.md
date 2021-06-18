@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /year-archive/
+title: "연도별 포스팅"
 layout: posts
+permalink: /posts/
 author_profile: true
 ---
