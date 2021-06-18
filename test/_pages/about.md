@@ -12,6 +12,6 @@ title: "조건문"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-categories: 수행평가
+categories: 개념
 last_modified_at: 2021-6-18
 ---
